@@ -31,7 +31,7 @@
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs1" />
   <g
@@ -41,7 +41,7 @@
      transform="translate(-9.8430554,-2.3308907)">
     <path
        sodipodi:type="star"
-       style="fill:#000000;stroke-width:0.264999"
+       style="fill:none;stroke-width:0.264999"
        id="path3"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -77,28 +77,28 @@
      id="layer2"
      inkscape:label="Layer 2">
     <path
-       style="fill:#000000;stroke-width:0.324727"
+       style="fill:none;stroke-width:0.324727"
        d="M 12.942784,37.143402 30.966085,19.120098 27.849066,16.003077 24.890583,18.961561 H 20.696019 L 7.4740269,32.183553 12.67797,37.363432 Z"
        id="path1" />
     <path
-       style="fill:#000000;stroke-width:0.324727"
+       style="fill:none;stroke-width:0.324727"
        d="M 13.667623,32.757765 7.0706381,8.137476 l 4.2579279,-1.14091 1.082879,4.041364 3.632599,2.097282 0.863952,17.734172 -3.121053,2.211337 z"
        id="path1-3"
        sodipodi:nodetypes="cccccccc" />
     <path
-       style="fill:#000000;stroke-width:0.264999"
+       style="fill:none;stroke-width:0.264999"
        d="m 21.795052,14.783594 5.9617,-1.597433 5.112298,2.951587 4.46664,-4.46664 L 20.07526,1.1244792 14.750521,4.1010416 13.787728,4.6569103 13.389825,4.8866398 15.954099,6.3671243 V 11.48457 l 5.761543,3.326429 z"
        id="path2" />
     <path
-       style="fill:#000000;stroke-width:0.343932"
+       style="fill:none;stroke-width:0.343932"
        d="m 18.61549,40.401348 1.295324,-2.243571 1.243589,2.153963 0.03856,0.06679 z"
        id="path4" />
     <path
-       style="fill:#000000;stroke-width:0.343932"
+       style="fill:none;stroke-width:0.343932"
        d="m 26.556695,26.452945 1.295324,-2.243571 1.243589,2.153963 0.03856,0.06679 z"
        id="path4-1" />
     <path
-       style="fill:#000000;stroke-width:0.690716"
+       style="fill:none;stroke-width:0.690716"
        d="m 19.824817,38.912962 8.071919,-14.150175 0.591897,0.582567 -8.128719,14.079357 z"
        id="path5" />
   </g>
